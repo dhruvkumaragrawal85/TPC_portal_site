@@ -45,22 +45,22 @@ PROJECT SNAPSHOTS
 
 Home Page
 
-![home](https://user-images.githubusercontent.com/87755170/184550716-f36710d7-c5cb-4b1a-b5f2-8227920e485c.png)
+![1](https://github.com/dhruvkumaragrawal85/TPC_portal_site/assets/110057140/a7e95a6a-121f-4d47-a6cc-1eddf0a7538d)
 
+Sign-up Page
 
-Login Page
-
-![Login Page](https://user-images.githubusercontent.com/87755170/184550718-f78d2e05-d90f-46cb-8a07-e3dcc3a538d3.png)
-
-
-Student Panel
-
-![student panl](https://user-images.githubusercontent.com/87755170/184550794-a778a02d-748c-490d-97ba-bf68c22fd3f4.png)
+![2](https://github.com/dhruvkumaragrawal85/TPC_portal_site/assets/110057140/1059dc0b-a1b2-42a3-b87d-8d1d3da5c7c8)
 
 
 Admin Panel
 
-![Screenshot 2022-05-20 234626](https://user-images.githubusercontent.com/87755170/184550961-84913a45-65ac-4a70-a5b9-233709dd4465.png)
+![3](https://github.com/dhruvkumaragrawal85/TPC_portal_site/assets/110057140/7391bda2-bb73-4de8-98c3-b33215483c35)
+
+
+Misc
+
+![4](https://github.com/dhruvkumaragrawal85/TPC_portal_site/assets/110057140/35a82437-4bfc-46ac-a39f-f1bad87db7f2)
+
 
 Resume Generator
 
