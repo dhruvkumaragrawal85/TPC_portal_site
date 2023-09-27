@@ -62,14 +62,6 @@ Misc
 ![4](https://github.com/dhruvkumaragrawal85/TPC_portal_site/assets/110057140/35a82437-4bfc-46ac-a39f-f1bad87db7f2)
 
 
-Resume Generator
-
-![resume](https://user-images.githubusercontent.com/87755170/184550823-82bb6049-9a64-4e51-a171-6c86a4645ab9.png)
-
-Check Eligibility
-
-![check eligibility](https://user-images.githubusercontent.com/87755170/184550829-86546902-a38c-4fe6-a53c-bf5844668f05.png)
-
 Resources
 
 1. https://stackoverflow.com/  <br/>
